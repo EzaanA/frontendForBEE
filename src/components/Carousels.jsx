@@ -29,17 +29,7 @@ const Carousels = ()=>{
                     onClick={handleClick}
                         className="bg-[#299D91] text-white "
                     >Reject A MEAL</Button>
-                    {/* <Button
-                    className="bg-[#299D91] text-white"
-                    >Reject A MEAL</Button>
-                    <Button
-                    className="bg-[#299D91] text-white"
-                    
-                    >Reject A MEAL</Button>
-                    <Button
-                    className="bg-[#299D91] text-white"
-                    
-                    >Reject A MEAL</Button> */}
+                   
                 </Carousel>
             </div>
 
@@ -95,7 +85,7 @@ const Carousels = ()=>{
             className="p-7 bg-slate-300 mx-1 shadow-xl"
             >
                 <Carousel arrows autoplay
-                className="w-[465px] p-6 ml-6 "
+                className="w-[440px] p-6 ml-6 "
                     >
                     <Button
                         className="bg-[#299D91] text-white"

@@ -1,7 +1,7 @@
 import { Input,Image } from "antd"
 import { IoFastFoodOutline } from "react-icons/io5";
+import { BiSolidFoodMenu } from "react-icons/bi";
 
-import { MdOutlineMenuBook } from "react-icons/md";
 
 
 const Navbar = ()=>{
@@ -41,7 +41,7 @@ const Navbar = ()=>{
                     <button
                     className="cursor-pointer"
                     >
-                        <IoFastFoodOutline  
+                        <BiSolidFoodMenu  
                             className="text-gray-400 size-12 mr-5"
                         />
                     </button>
